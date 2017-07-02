@@ -1,0 +1,64 @@
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus { 
+    outline: none !important;
+    border:1px solid black;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+.card-title {
+    color: black !important;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.chip {
+    margin-bottom: 5px;
+    margin-right: 5px;
+    box-shadow: 1px 1px 5px grey;
+}
+
+#comentario {
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    padding: 5px;
+    box-shadow: 1px 1px 5px grey;
+    background-color: white;
+}
+
+p:first-letter {
+    text-transform: uppercase;
+}
+
+.card-content {
+    padding-top: 0px;
+}
+
+@media screen and (max-width: 600px) {
+    .card-title {
+        text-align: center;
+    }
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.switch label input[type=checkbox]:checked+.lever:after, .switch label input[type=checkbox]:checked+.lever {
+    background-color: #2196F3;
+}
+
+.switch label input[type=checkbox]:checked+.lever {
+    background-color: #49a8f3;
+}
+
+#cambiarEstado {
+    margin-top: 5px;
+    display: block;
+}
