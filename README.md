@@ -1,4 +1,7 @@
-![](https://img.shields.io/badge/AA WCAG 2.0-92%-brightgreen.svg) ![](https://img.shields.io/badge/PHP-5.5.9-blue.svg) ![](https://img.shields.io/badge/MySQL-14.14-lightgrey.svg) ![](https://img.shields.io/badge/contributors-3-orange.svg)
+![](https://img.shields.io/badge/AA%WCAG%2.0-89%25-brightgreen.svg)
+![](https://img.shields.io/badge/PHP-5.5.9-blue.svg)
+![](https://img.shields.io/badge/MySQL-14.14-lightgrey.svg)
+![](https://img.shields.io/badge/contributors-3-orange.svg)
 
 # Proyecto Final
 
